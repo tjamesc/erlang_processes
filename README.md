@@ -1,2 +1,4 @@
 # erlang_processes
-Assignment #4 for UNC COMP 590 with Dr. Stotts
+
+Thomas Carriero - 730510525
+Minjae Kung - 730570794
